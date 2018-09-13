@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Styles and Material Design</string>
+    <string name="walk_this_way">Walk This Way</string>
+    <string name="todo">TODO</string>
+    <string name="location_santa_clara_st_fort_santiago_intramuros_manila_luzon_1008_philippines">Location: Santa Clara St Fort Santiago, Intramuros, Manila, Luzon 1008 Philippines</string>
+    <string name="distance_from_ust_3_8km">Distance from UST: 3.8km</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
